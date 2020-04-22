@@ -13,6 +13,6 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 * **Part 7:** Load image data with torchvision, also data augmentation
 * **Part 8:** Use transfer learning to train a state-of-the-art image classifier for dogs and cats
 
-Created By [Jayaraj J](https://linkedin.com/jyjnair)
+Created By [Jayaraj J](https://linkedin.com/in/jyjnair)
 
 Dated 4/23/2020
