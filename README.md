@@ -1,3 +1,5 @@
+![Deeplearning Nanodegree program from Udacity](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Udacity-Deep-Learning-Nanodegree-program.jpg)
+
 # Deep Learning with PyTorch
 
 This repo contains notebooks and related code for Udacity's Deep Learning with PyTorch lesson. This lesson appears in our [AI Programming with Python Nanodegree program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
@@ -10,3 +12,6 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 * **Part 6:** How to save and load trained models
 * **Part 7:** Load image data with torchvision, also data augmentation
 * **Part 8:** Use transfer learning to train a state-of-the-art image classifier for dogs and cats
+
+Created By [Jayaraj J](https://linkedin.com/jyjnair)
+Dated 4/23/2020
