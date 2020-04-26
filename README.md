@@ -16,3 +16,7 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 Created By [Jayaraj J](https://linkedin.com/in/jyjnair)
 
 Dated 4/23/2020
+
+# Deep Learning with PyTorch - CNN Exercise added
+
+Acess under folder PyTorch-CNN-Module-Exercise
